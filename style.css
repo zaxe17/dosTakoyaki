@@ -18,7 +18,8 @@ h1 {
 	float: left;
 	clear: left;
 	margin-right: 8px;
-	margin-botton: 1px;
+	margin-botton: 8px;
+	margin-top: 8px;
 	border: solid #FFD700 4px;
 	padding: 4px;
 	}
